@@ -25,3 +25,12 @@ var color = document.getElementById("color");
 
 var pw = document.getElementById("pw");
 
+//Print in HTML
+
+name.innerHTML = nome;
+
+surname.innerHTML = cognome;
+
+color.innerHTML = colore; 
+
+pw.innerHTML = password;
